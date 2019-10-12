@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3. Liquidity Management"
+    id="cc6b02f4-1f18-404a-9248-787a96be7153">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="82305161-fb67-4dea-b517-a0bc0fc972f4">
+    <bounds
+        x="357"
+        y="329"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_440fcda4-0cfb-4df7-873b-f03692a131b3.xml#440fcda4-0cfb-4df7-873b-f03692a131b3"/>
+  </children>
+</archimate:ArchimateDiagramModel>

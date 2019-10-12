@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice Administration"
+    id="84d4fbfb-8a02-434a-99a1-05f0324a482a"
+    documentation="The administration of the fees, business rules, triggers, etc need to be managed by a user. Who is that user, and where is it done?"/>

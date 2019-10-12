@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring"
+    id="a1a7dcab-260b-4b2f-bebc-dfa6b3274c64">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ee325296-5f34-43fb-8683-9cef02170113.xml#ee325296-5f34-43fb-8683-9cef02170113"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_e6e24d54-2eb1-49f6-bd46-5edada3f1821.xml#e6e24d54-2eb1-49f6-bd46-5edada3f1821"/>
+</archimate:FlowRelationship>

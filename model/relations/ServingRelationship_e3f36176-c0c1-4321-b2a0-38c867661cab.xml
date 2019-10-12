@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investigation"
+    id="e3f36176-c0c1-4321-b2a0-38c867661cab">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ee325296-5f34-43fb-8683-9cef02170113.xml#ee325296-5f34-43fb-8683-9cef02170113"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_1aff14e5-1c12-440a-9486-50284241f3f6.xml#1aff14e5-1c12-440a-9486-50284241f3f6"/>
+</archimate:ServingRelationship>

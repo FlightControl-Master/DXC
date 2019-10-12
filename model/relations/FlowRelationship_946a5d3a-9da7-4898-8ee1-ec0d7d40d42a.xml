@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT State"
+    id="946a5d3a-9da7-4898-8ee1-ec0d7d40d42a">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_e6e24d54-2eb1-49f6-bd46-5edada3f1821.xml#e6e24d54-2eb1-49f6-bd46-5edada3f1821"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_4631d499-0fa2-4b05-af31-81a65daf2fc6.xml#4631d499-0fa2-4b05-af31-81a65daf2fc6"/>
+</archimate:FlowRelationship>
